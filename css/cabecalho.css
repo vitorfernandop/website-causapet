@@ -1,0 +1,8 @@
+.cabecalho {
+    background: #fef9f3;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 5px;
+}
+

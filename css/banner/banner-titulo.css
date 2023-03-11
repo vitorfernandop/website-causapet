@@ -1,0 +1,12 @@
+.banner__titulo{
+    position: absolute;
+    left: 31%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    margin-right: 28%;
+    font-family: "Cooper Black", serif;
+    font-size: 40px;
+    text-align: justify;
+    line-height: 1.5;
+    
+}
