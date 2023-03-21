@@ -1,0 +1,17 @@
+.menu__link {
+    color: #808080;
+    text-decoration: none;
+    margin-right: 1.25rem;
+    font-size: 15px;
+}
+
+.menu__link.ativo{
+    font-weight: bold;
+    color: black;
+}
+
+.menu__link:hover{
+    color: black;
+    font-weight: bolder;
+    font-size: 18px;
+}

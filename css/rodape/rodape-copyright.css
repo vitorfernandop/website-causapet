@@ -1,0 +1,12 @@
+.rodape__informativos__copyright{
+    width: 100%;
+}
+
+.rodape__informativos__copyright p{
+    display: inline-block;
+    font-weight: 100;
+    vertical-align: middle;
+    margin: 0;
+    
+}
+

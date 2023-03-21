@@ -1,0 +1,26 @@
+.rodape__informativos__icones{
+    display: flex;
+    gap: 2rem;
+    margin-top: 40px;
+    justify-content: center;
+    
+}
+
+.rodape__informativos__icones__links{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+#Instagram{
+    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
+}
+
+#Facebook{
+    background: #4267b3;
+}

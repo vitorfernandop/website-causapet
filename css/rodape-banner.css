@@ -1,0 +1,10 @@
+.rodape__banner{
+    padding: 5px;
+    background-color: #231f20;
+}
+
+.rodape__banner .rodape__banner__imagem {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}

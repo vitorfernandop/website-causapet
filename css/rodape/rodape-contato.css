@@ -1,0 +1,23 @@
+.rodape__informativos__contato{
+    width: 100%;
+}
+
+.rodape__informativos__contato i{
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
+
+.rodape__informativos__contato p {
+    display: inline-block;
+    font-weight: 100;
+    vertical-align: middle;
+    margin: 0;
+}
+
+
