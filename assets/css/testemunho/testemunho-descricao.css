@@ -1,0 +1,8 @@
+.testemunho__descricao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    font-size: 17px;
+    padding: 1.5rem 5rem;
+}
