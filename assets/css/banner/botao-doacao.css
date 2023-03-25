@@ -1,0 +1,56 @@
+.botao__doacao{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 10rem;
+    margin-top: -5rem;
+    margin-bottom: 5rem;
+}
+  
+.botao__doacao a{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(48, 48, 48);
+    border: 2px solid rgb(48, 48, 48);
+    letter-spacing: 1px;
+    text-align: center;
+    position: relative;
+    transition: all 1s;
+}
+  
+.botao__doacao a span{
+    position: relative;
+    z-index: 2;
+}
+
+a i{
+    position: relative;
+    z-index: 2;
+}
+  
+.botao__doacao a:after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: rgb(211, 70, 0);
+    transition: all 1s;
+}
+  
+.botao__doacao a:hover{
+    color: #fff;
+}
+  
+.botao__doacao a:hover:after{
+    width: 100%;
+}
