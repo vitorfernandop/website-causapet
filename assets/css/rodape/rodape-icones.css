@@ -1,20 +1,19 @@
 .rodape__informativos__icones{
     display: flex;
     gap: 2rem;
-    margin-top: 40px;
     justify-content: center;
-    
+    margin-top: 3rem;
 }
 
 .rodape__informativos__icones__links{
+    align-items: center;
+    display: flex;
+    justify-content: center;
     height: 3rem;
     width: 3rem;
+
     border-radius: 50%;
     color: white;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-
 }
 
 #Instagram{

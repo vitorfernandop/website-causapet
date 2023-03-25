@@ -1,6 +1,6 @@
 .formularioadocao{
+    align-items: center;
     display: flex;
     justify-content: start;
-    align-items: center;
     margin-left: 10rem;
 }

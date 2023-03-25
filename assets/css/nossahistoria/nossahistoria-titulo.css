@@ -3,7 +3,8 @@
     justify-content: space-around;
     margin-bottom: 5rem;
     margin-top: -10rem;
-    font-size: 30px;
-    font-family: "Cooper Black", serif;
+
     color: rgb(211, 70, 0);
+    font-family: "Cooper Black", serif;
+    font-size: 30px;
 }

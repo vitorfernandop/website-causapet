@@ -1,16 +1,17 @@
 .formularioadocao__botao {
+	display:inline-block;
     margin-left: 12rem;
 	margin-top: -5rem;
-	box-shadow: 0px 5px 1px 1px #803100;
+	padding:16px 31px;
+
 	background-color:#FF6C27;
-	border-radius:28px;
 	border:1px solid #803100;
-	display:inline-block;
-	cursor:pointer;
+	border-radius:28px;
+	box-shadow: 0px 5px 1px 1px #803100;
 	color:#ebebeb;
+	cursor:pointer;
 	font-family:Arial;
 	font-size:17px;
-	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #540b01;
 }

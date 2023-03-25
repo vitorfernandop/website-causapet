@@ -4,9 +4,9 @@
 
 .rodape__informativos__copyright p{
     display: inline-block;
-    font-weight: 100;
-    vertical-align: middle;
     margin: 0;
+    vertical-align: middle;
     
+    font-weight: 100;
 }
 

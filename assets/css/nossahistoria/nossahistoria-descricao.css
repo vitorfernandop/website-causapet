@@ -1,11 +1,12 @@
 .nossahistoria__descricao{
-    display: flex;
     align-items: center;
+    display: flex;
     justify-content: space-around;
-    width: 70%;
     margin-left: 10rem;
-    font-size: 20px;
-    text-align: justify;
-    line-height: 1.5;
+    width: 70%;
+    
     color: rgb(48, 48, 48);
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
 }
