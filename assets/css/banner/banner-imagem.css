@@ -1,4 +1,5 @@
 .banner__imagem{
     width: 30%;
-    margin-right: 15%;
+    margin-right: 10rem;
+    transform: scaleX(-1);
 }

@@ -1,8 +1,8 @@
 .nossahistoria__titulo{
     display: flex;
-    align-items: center;
     justify-content: space-around;
-    margin-bottom: 80px;
+    margin-bottom: 5rem;
+    margin-top: -10rem;
     font-size: 30px;
     font-family: "Cooper Black", serif;
     color: rgb(211, 70, 0);

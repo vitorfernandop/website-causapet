@@ -1,7 +1,7 @@
 .formularioadocao__titulo{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     font-size: 30px;
     font-family: "Cooper Black", serif;
     color: red;

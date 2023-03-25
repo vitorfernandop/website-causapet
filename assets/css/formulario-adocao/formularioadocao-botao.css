@@ -1,9 +1,10 @@
 .formularioadocao__botao {
-    margin-left: 10%;
-	box-shadow: 0px 5px 1px 1px #800f00;
-	background-color:#ff7563;
+    margin-left: 12rem;
+	margin-top: -5rem;
+	box-shadow: 0px 5px 1px 1px #803100;
+	background-color:#FF6C27;
 	border-radius:28px;
-	border:1px solid #800f00;
+	border:1px solid #803100;
 	display:inline-block;
 	cursor:pointer;
 	color:#ebebeb;
@@ -14,11 +15,11 @@
 	text-shadow:0px 1px 0px #540b01;
 }
 .formularioadocao__botao:hover {
-	background-color:#ff4d36;
+	background-color:#803100;
 }
 .formularioadocao__botao:active {
 	position:relative;
-	top:1px;
+	top: 1rem;
 }
 
         
